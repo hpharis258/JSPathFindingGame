@@ -1,3 +1,10 @@
 body{
     background-color: black;
 }
+h1{
+    padding-left: 880px;
+}
+
+#gameScreen{
+    background-color: antiquewhite;
+}
