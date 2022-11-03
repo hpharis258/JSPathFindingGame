@@ -1,10 +1,11 @@
-body{
-    background-color: black;
+#gameScreen{
+    background-color: blanchedalmond;
+    width: 1200px;
+    height: 600px;
+    border: solid;
+    border-radius: 2px;
+    border-color: black;
 }
 h1{
-    padding-left: 880px;
-}
-
-#gameScreen{
-    background-color: antiquewhite;
+    align-self: center;
 }
